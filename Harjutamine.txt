@@ -2,3 +2,5 @@ GitHub on laialdaselt kasutatav tarkvara, mida tavaliselt kasutatakse versioonid
 See on vajalik siis kui projekti kallal töötab rohkem kui üks inimene.
 
 Saan kasutada GitHubi siis kui on vaja mingi projekti kallat töötada mitme inimese või gruppiga.
+
+GitHubi platvormi algas 19. oktoobril 2007, GitHubi leht loodi 2008 aastal Githubi loojate Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon poolt pärast seda kui see oli paar kuud beta versioonina üleval.
