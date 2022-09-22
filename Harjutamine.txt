@@ -1,4 +1,2 @@
 GitHub on laialdaselt kasutatav tarkvara, mida tavaliselt kasutatakse versioonide kontrollimiseks.
 See on vajalik siis kui projekti kallal töötab rohkem kui üks inimene.
-
-Saan kasutada GitHubi siis kui on vaja mingi projekti kallat töötada mitme inimese või gruppiga.
